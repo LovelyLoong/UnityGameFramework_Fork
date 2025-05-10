@@ -21,7 +21,7 @@
     "com.unity.modules.imgui": "1.0.0",
     "com.unity.modules.jsonserialize": "1.0.0",
     "com.unity.modules.unitywebrequest": "1.0.0",
-    "com.jiangyin.gameframework": "file:D:/Work/GameFramework_Fork"
+    "com.jiangyin.gameframework": "https://github.com/LovelyLoong/GameFramework_Fork.git"
   },
   "repository": {
     "type": "git",
