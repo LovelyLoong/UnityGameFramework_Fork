@@ -21,7 +21,6 @@
     "com.unity.modules.imgui": "1.0.0",
     "com.unity.modules.jsonserialize": "1.0.0",
     "com.unity.modules.unitywebrequest": "1.0.0",
-    "com.lovelyloong.gameframework_fork": "1.0.0"
   },
   "repository": {
     "type": "git",
