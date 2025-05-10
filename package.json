@@ -1,5 +1,5 @@
 {
-  "name": "com.jiangyin.gameframework",
+  "name": "com.jiangyin.unitygameframework",
   "displayName": "Game Framework",
   "category": "Game Framework",
   "description": "This is literally a game framework, based on Unity game engine. It encapsulates commonly used game modules during development, and, to a large degree, standardises the process, enhances the development speed and ensures the product quality.",
@@ -21,7 +21,7 @@
     "com.unity.modules.imgui": "1.0.0",
     "com.unity.modules.jsonserialize": "1.0.0",
     "com.unity.modules.unitywebrequest": "1.0.0",
-    "com.LovelyLoong.GameFramework_Fork": "file:D:/Work/GameFramework_Fork"
+    "com.jiangyin.gameframework": "file:D:/Work/GameFramework_Fork"
   },
   "repository": {
     "type": "git",
