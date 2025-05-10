@@ -20,11 +20,12 @@
     "com.unity.modules.audio": "1.0.0",
     "com.unity.modules.imgui": "1.0.0",
     "com.unity.modules.jsonserialize": "1.0.0",
-    "com.unity.modules.unitywebrequest": "1.0.0"
+    "com.unity.modules.unitywebrequest": "1.0.0",
+    "com.LovelyLoong.UnityGameFramework_Fork": "file:D:/Work/GameFramework_Fork"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:EllanJiang/UnityGameFramework.git",
+    "url": "git@github.com:LovelyLoong/UnityGameFramework_Fork.git",
     "revision": "9e04764c9098106a83b5110923d4acf1b1a13344"
   }
 }
